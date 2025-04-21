@@ -34,3 +34,5 @@ https://engineering.fb.com/2017/05/22/ml-applications/under-the-hood-photo-searc
 
 
 https://engineering.fb.com/2021/01/26/ml-applications/
+
+https://engineering.fb.com/2021/01/26/ml-applications/news-feed-ranking/
