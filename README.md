@@ -22,3 +22,5 @@ https://medium.com/nerd-for-tech/here-is-how-instagram-selects-what-you-see-in-e
 
 https://www.youtube.com/@tryexponent
 
+
+https://eugeneyan.com/writing/position-bias/
