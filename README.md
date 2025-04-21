@@ -31,3 +31,6 @@ https://engineering.fb.com/2015/06/02/core-infra/recommending-items-to-more-than
 https://engineering.fb.com/2016/12/08/android/made-in-ny-the-engineering-behind-social-recommendations/
 
 https://engineering.fb.com/2017/05/22/ml-applications/under-the-hood-photo-search/
+
+
+https://engineering.fb.com/2021/01/26/ml-applications/
