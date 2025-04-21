@@ -24,3 +24,10 @@ https://www.youtube.com/@tryexponent
 
 
 https://eugeneyan.com/writing/position-bias/
+
+https://engineering.fb.com/2015/06/02/core-infra/recommending-items-to-more-than-a-billion-people/
+
+
+https://engineering.fb.com/2016/12/08/android/made-in-ny-the-engineering-behind-social-recommendations/
+
+
